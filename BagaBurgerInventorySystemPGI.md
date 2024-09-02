@@ -63,4 +63,4 @@ Group Members:
 1. Jayvee Manes
 2. Brandon L. Cañete
 3. Reynier Carpio
-4. Janjan Nicolas
+4. Victor Nicolas Jr.
