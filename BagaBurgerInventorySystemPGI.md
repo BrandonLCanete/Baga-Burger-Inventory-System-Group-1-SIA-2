@@ -8,7 +8,7 @@ Group Name: GROUP 1
 
 ## B. Project Description:
 
-## C. Project Objectives:
+## C. Project Objectives: asdsaassadsadsd
 
 To develop a Baga Burger Inventory System APP that will help to manage the Inventory with the following features:
 
