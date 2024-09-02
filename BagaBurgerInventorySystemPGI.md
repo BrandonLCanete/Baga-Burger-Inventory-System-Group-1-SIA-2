@@ -18,10 +18,10 @@ To develop a SYSTEM_NAME APP that will help manage the **\_\_** with the followi
 
 ## D. Business Benefits:
 
-1.
-2.
-3.
-4. ..
+1. Increased Inventory Accuracy
+2. Reducing Overselling Products
+3. Better Product Management
+4. Inventory Automation
 
 ## E. Project Deliverables:
 
