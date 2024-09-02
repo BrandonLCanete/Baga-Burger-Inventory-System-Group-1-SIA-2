@@ -1,7 +1,8 @@
 # Project General Information
 
 Group Name: GROUP 1
-Project Title: Baga Burger Inventory System
+
+## Project Title: Baga Burger Inventory System
 
 ## A. Problem Statement:
 
@@ -9,7 +10,7 @@ Project Title: Baga Burger Inventory System
 
 ## C. Project Objectives:
 
-To develop a SYSTEM_NAME APP that will help manage the **\_\_** with the following features:
+To develop a Baga Burger Inventory System APP that will help to manage the Inventory with the following features:
 
 1.
 2.
@@ -52,7 +53,7 @@ To develop a SYSTEM_NAME APP that will help manage the **\_\_** with the followi
 
 ## F. Benchmarking
 
-1. ex. Shopee
+ex. kafoodle.com
 
 ## G. Estimated Project Duration:
 
