@@ -57,6 +57,8 @@ ex. kafoodle.com
 
 ## G. Estimated Project Duration:
 
+4-5 Months
+
 Prepared by:
 
 Group Members:
