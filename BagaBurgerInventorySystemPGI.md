@@ -7,6 +7,14 @@ Group Name: GROUP 1
 ## A. Problem Statement:
 
 ## B. Project Description:
+The "Baga Burger Inventory System" is a full-featured software program created to transform inventory control for the fast-food chain Baga Burger. By addressing important issues like stockouts, overstocking, and human tracking errors, this technology helps Baga Burger run more effectively and efficiently. By providing real-time visibility into ingredient levels and finished products, the system empowers staff to make informed decisions on the fly. Detailed tracking of expiration dates minimizes waste, while sales and usage analysis identify trends to optimize purchasing. Automated low stock alerts prevent disruptions, and centralized supplier management streamlines procurement. Customizable reports offer valuable insights for strategic planning. In the end, inventory management becomes proactive rather than reactive thanks to the "Baga Burger Inventory System". With lower expenses, better stock levels, and happier patrons, Baga Burger can concentrate on providing mouthwatering cuisine and top-notch service.
+
+Real-time Inventory Tracking: Accurate, up-to-the-minute visibility of ingredient levels and finished products.
+Ingredient Management: Detailed tracking of expiration dates, facilitating proactive restocking and reducing waste.
+Sales and Usage Analysis: Insights into sales trends and ingredient consumption patterns for informed purchasing decisions.
+Stock Level Alerts: Automated notifications for low stock levels, enabling timely reordering.
+Supplier Management: Centralized database for supplier information, facilitating communication and streamlined procurement.
+Reporting and Analytics: Generation of customizable reports for in-depth analysis and strategic planning.
 
 ## C. Project Objectives: 
 
