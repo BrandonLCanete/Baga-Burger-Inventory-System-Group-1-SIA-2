@@ -6,10 +6,15 @@ Group Name: GROUP 1
 
 ## A. Problem Statement:
 Baga Burger is a local burger store that currently faces challenges with its inventory management system. Effective inventory management is critical for maintaining operational efficiency, reducing costs, and ensuring customer satisfaction. However, the existing system at Baga Burger is outdated, manual and inefficient, leading to various operational issues.
+
 The existing system struggles to provide real-time updates on stock levels, resulting in either overstocking or stockouts. Reliance on manual tracking methods can lead to errors and inefficiencies in inventory management and the current system may not integrate effectively with other business functions, such as sales and procurement, creating inefficiencies. It also makes an Ineffective tracking of perishable ingredients that may lead to increased food waste and higher operational costs.
+
 Addressing these issues is important for the sake of Baga Burger, reducing their operational costs, and improving customer satisfaction. This Effective inventory management will help the Baga Burger maintain consistent product quality, reduce waste, and gain a competitive advantage in the market. 
+
 Our Research aims to help and analyze the current inventory management system of Baga Burger to identify its inefficiencies and limitations. Determine the specific inventory management needs and requirements of Baga Burger. Investigate best practices and technologies for inventory management suitable for a burger store. Develop a detailed proposal for an improved inventory management system that addresses the identified problems. Provide a strategy for implementing the new system, including timelines, training, and integration with existing processes.
+
 According to the study of  J.H. Lee (2020)"Inventory Management System Design for Small and Medium Enterprises: Case Study of a Fast Food Restaurant"
+
 This study focuses on the development of an inventory management system tailored for a small to medium-sized fast food restaurant. It covers aspects such as stock tracking, waste reduction, and integration with other business processes, providing valuable insights into creating an efficient inventory system for a store.
 
 ## B. Project Description:
