@@ -10,6 +10,12 @@ Group Name: GROUP 1
 
 ## C. Project Objectives: 
 
+1. Optimal inventory control -> an intuitive inventory that allows to manage stock and track in real time.
+2. User friendly interface -> to simplifies the inventory management process, and make it easy access for the employees such as manager, staffs and stakeholders.
+3. Accessibility -> this version of app is to enable the inventory management on the go, and to ensure that the stock can be updated and monitored as well.
+4. Access control security -> is to allow the access to the different levels of access managers, staffs and stakeholders. To ensure the data security and integrity.
+5. Training module -> this feature is to educate the staffs on efficient inventory management to practices how the system work.
+
 To develop a Baga Burger Inventory System APP that will help to manage the Inventory with the following features:
 
 1.
