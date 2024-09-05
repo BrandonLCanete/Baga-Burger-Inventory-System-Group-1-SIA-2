@@ -55,6 +55,19 @@ Admin:
 | product_created| datetime                      | 150    | 2024-5-9  | The product uploaded in the inventory system |
 | product_deteriorate| datetime                  | 150    | 2024-5-20 | The product date when it will deteriorate |
 
+### Table 3: Message
+
+| COLUMN NAME | DATA TYPE                        | LENGTH | SAMPLE | DESCRIPTION        |
+|------------|-----------------------------------|--------|--------|---------------|
+| message_id | int(pk)                           | 255    | 1      | Number that will enrement if a someone message to other | 
+| account_id | int                               | 255    | 2      | The account id of the messenger |
+| account_name | varchar                         | 150    | Jason  | The account name of the messenger |
+| account_role | enum                            | 150    | users  | The role of the messenger |
+| message      | mediumtext                      | 20000  | This product need to restock | The message of the messenger |
+| message_created| datetime                      | 150    | 2024-5-9  | The date when the message created |
+| account_picture| varchar                       | 150    | profile.jpg | The profile picture of the account |
+
+
 
 
 ### ERD
