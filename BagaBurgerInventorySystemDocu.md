@@ -55,7 +55,7 @@ Admin:
 | product_created| datetime                      | 150    | 2024-5-9  | The product uploaded in the inventory system |
 | product_deteriorate| datetime                  | 150    | 2024-5-20 | The product date when it will deteriorate |
 
-#### Table 3: Message
+#### Table 3: Messages
 
 | COLUMN NAME | DATA TYPE                        | LENGTH | SAMPLE | DESCRIPTION        |
 |------------|-----------------------------------|--------|--------|---------------|
