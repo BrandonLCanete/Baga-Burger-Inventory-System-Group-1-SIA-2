@@ -77,7 +77,7 @@ Admin:
 | product_name | varchar                         | 150    | Buns   | The product name that receive changes |
 | notification_message | varchar                 | 1500    | The Buns is now restock  | The notification message of the product that receive changes |
 
-#### Table 5: Password Reset 
+#### Table 5: Password Resets 
 
 | COLUMN NAME | DATA TYPE                        | LENGTH | SAMPLE | DESCRIPTION        |
 |------------|-----------------------------------|--------|--------|---------------|
