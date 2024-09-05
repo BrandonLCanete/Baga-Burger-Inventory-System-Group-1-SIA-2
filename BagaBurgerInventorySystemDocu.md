@@ -53,7 +53,7 @@ Admin:
 | product_description| varchar                   | 150    | This patty has only 22 stock out of 25 | A Description for the stock of the products or what is that product |
 | product_picture| varchar                       | 150    | patty.jpg | The picture of the product |
 | product_created| datetime                      | 150    | 2024-5-9  | The product uploaded in the inventory system |
-| product_deteriorate| datetime                  | 150    | 2024-5-20 | The product date if its deteriorate |
+| product_deteriorate| datetime                  | 150    | 2024-5-20 | The product date when it will deteriorate |
 
 
 
