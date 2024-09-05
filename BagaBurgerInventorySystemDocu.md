@@ -77,7 +77,14 @@ Admin:
 | product_name | varchar                         | 150    | Buns   | The product name that receive changes |
 | notification_message | varchar                 | 1500    | The Buns is now restock  | The notification message of the product that receive changes |
 
+#### Table 5: Password Reset 
 
+| COLUMN NAME | DATA TYPE                        | LENGTH | SAMPLE | DESCRIPTION        |
+|------------|-----------------------------------|--------|--------|---------------|
+| reset_id | int(pk)                             | 255    | 1      | Number that will encrement if someone reset their password| 
+| account_id | int                               | 255    | 2      | The account id |
+| account_role | varchar                         | 150    | admin  | The role of the account |
+| reset_token  | varchar                         | 1000   |  4881be644b83518cb6d9978a784d81de | The reset token for the password reset |
 
 
 
