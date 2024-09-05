@@ -24,12 +24,25 @@ Users:
 | COLUMN NAME | DATA TYPE                        | LENGTH | SAMPLE | DESCRIPTION        |
 |------------|-----------------------------------|--------|--------|---------------|
 | user_id    | int(pk)                           | 255    | 1      | Number that will encrement if a user make an account |  
-| user_name  | Identify if borrower or librarian    | String    | 55     | Borrower      |
-| user_email | Identify online or Offline           | Boolean   |        | True          |
-| user_password| Datetimestamp of user Created        | Date      |        | 11 2 2022 13:01 |
-| user_number|
-| user_picture|
-| user_status|
+| user_name  | varchar                           | 100    | Juan Dela Cruz| A name for users |
+| user_email | varchar                           | 150    | juandelacruz@gmail.com | User email to login |
+| user_password| varchar                         | 255    | juandelacruzpogi123 | User password to login |
+| user_number| int                               | 12     | 639993467999| User phone number |
+| user_picture| varchar                          | 150    | profile.jpg | User profile picture |
+| user_status| boolean                           | 10     | online      | User online or offline status |
+
+Admin:
+
+| COLUMN NAME | DATA TYPE                        | LENGTH | SAMPLE | DESCRIPTION        |
+|------------|-----------------------------------|--------|--------|---------------|
+| admin_id   | int(pk)                           | 255    | 1      | Number that will encrement if a admin make an account | 
+| admin_name | varchar                           | 100    | Jhonny Papa | A name for admin |
+| admin_email| varchar                           | 150    | jhonnypapa@gmail.com | admin email to login |
+| admin_password| varchar                         | 255    | jhonnypapapogi123 | admin password to login |
+| user_number| int                               | 12     | 639993467999| User phone number |
+| user_picture| varchar                          | 150    | profile.jpg | User profile picture |
+| user_status| boolean                           | 10     | online      | User online or offline status |
+
 
 ### ERD
 
