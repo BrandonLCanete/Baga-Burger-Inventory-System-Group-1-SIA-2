@@ -17,8 +17,26 @@
 ## F. Database Architecture
 
 ### Data Dictionary
+### Table 1: Account Types
+
+Users: 
+
+| COLUMN NAME | DATA TYPE                        | LENGTH | SAMPLE | DESCRIPTION        |
+|------------|-----------------------------------|--------|--------|---------------|
+| user_id    | int(pk)                           | 255    | 1      | Number that will encrement if a user make an account |  
+| user_name  | Identify if borrower or librarian    | String    | 55     | Borrower      |
+| user_email | Identify online or Offline           | Boolean   |        | True          |
+| user_password| Datetimestamp of user Created        | Date      |        | 11 2 2022 13:01 |
+| user_number|
+| user_picture|
+| user_status|
 
 ### ERD
+
+
+
+
+
 
 ## Non Functional Requirements
 
