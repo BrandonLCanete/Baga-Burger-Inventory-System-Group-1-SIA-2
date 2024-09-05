@@ -18,7 +18,7 @@
 
 ### Data Dictionary
 
-### Table 1: Account Informations
+#### Table 1: Account Informations
 
 Users: 
 
@@ -43,7 +43,7 @@ Admin:
 | admin_picture| varchar                         | 150    | profile_admin.jpg | admin profile picture |
 | admiin_status| boolean                         | 10     | online      | admin online or offline status |
 
-### Table 2: Product Information
+#### Table 2: Product Information
 
 | COLUMN NAME | DATA TYPE                        | LENGTH | SAMPLE | DESCRIPTION        |
 |------------|-----------------------------------|--------|--------|---------------|
@@ -55,7 +55,7 @@ Admin:
 | product_created| datetime                      | 150    | 2024-5-9  | The product uploaded in the inventory system |
 | product_deteriorate| datetime                  | 150    | 2024-5-20 | The product date when it will deteriorate |
 
-### Table 3: Message
+#### Table 3: Message
 
 | COLUMN NAME | DATA TYPE                        | LENGTH | SAMPLE | DESCRIPTION        |
 |------------|-----------------------------------|--------|--------|---------------|
