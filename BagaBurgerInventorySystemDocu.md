@@ -5,6 +5,15 @@
 ## B. Project Features and Characteristics
 
 ## C. Project Scope
+The Baga Burger Inventory System is an advanced inventory management solution tailored for the operations of a burger restaurant. Given the dynamic nature of foodservice operations, effective inventory management is critical for maintaining smooth operations, ensuring the availability of essential ingredients, and minimizing waste. This system is designed to automate the tracking of various restaurant supplies, such as burger patties, buns, condiments, vegetables, beverages, packaging materials, and other critical ingredients required for daily operations.
+
+In a fast-paced environment like a burger restaurant, manually managing inventory can lead to a variety of issues, including over-ordering, under-stocking, spoilage, and operational delays. The Baga Burger Inventory System aims to reduce the reliance on manual processes and minimize human errors, ensuring that restaurant staff can focus more on providing quality service rather than worrying about inventory shortages or discrepancies.
+
+By automating key inventory processes, the system will allow restaurant managers to gain real-time insights into stock levels, ingredient consumption trends, and potential supply chain gaps. With features such as automated alerts for low stock levels and items nearing expiration, the system will help prevent stockouts and ensure that fresh ingredients are always available. Additionally, the system will enable users to track ingredient usage based on sales patterns, which will help in making data-driven decisions about restocking, purchasing, and forecasting future demand.
+
+The Baga Burger Inventory System is also equipped to generate detailed reports that will help restaurant management analyze inventory performance over time, reduce costs associated with waste or excess stock, and improve the overall efficiency of operations. Moreover, the system will streamline the procurement process by allowing for easy creation of purchase orders directly from within the platform when inventory reaches predefined thresholds. This will save time and enhance the accuracy of replenishing stock.
+
+Ultimately, the Baga Burger Inventory System will provide a comprehensive solution to the challenges of inventory management, resulting in improved operational efficiency, reduced waste, cost savings, and a more reliable supply of ingredients for the restaurant.
 
 ## D. Work Breakdown Structure
 
