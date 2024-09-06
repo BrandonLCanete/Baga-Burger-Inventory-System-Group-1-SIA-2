@@ -27,7 +27,7 @@ Users:
 | user_id    | int(pk)                           | 255    | 1      | Number that will encrement if a user make an account |  
 | user_name  | varchar                           | 100    | Juan Dela Cruz| A name for users |
 | user_email | varchar                           | 150    | juandelacruz@gmail.com | User email to login |
-| user_password| varchar                         | 255    | juandelacruzpogi123 | User password to login |
+| user_password| varchar                         | 255    | $2y$10$WhIPyfbmpj8lQwG38r26Uu0S7a/BUceLz7BLx/aK0aS | User password to login |
 | user_number| int                               | 12     | 639993467999| User phone number |
 | user_picture| varchar                          | 150    | profile.jpg | User profile picture |
 | user_status| boolean                           | 10     | online      | User online or offline status |
@@ -39,7 +39,7 @@ Admin:
 | admin_id   | int(pk)                           | 255    | 1      | Number that will encrement if a admin make an account | 
 | admin_name | varchar                           | 100    | Jhonny Papa | A name for admin |
 | admin_email| varchar                           | 150    | jhonnypapa@gmail.com | admin email to login |
-| admin_password| varchar                        | 255    | jhonnypapapogi123 | admin password to login |
+| admin_password| varchar                        | 255    | $2y$10$WhIPyfbmpj8lQwG38r26Uu0S7a/BUceLz7BLx/aK0bC | admin password to login |
 | admin_picture| varchar                         | 150    | profile_admin.jpg | admin profile picture |
 | admiin_status| boolean                         | 10     | true      | admin online or offline status |
 
