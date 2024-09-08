@@ -1,8 +1,20 @@
 # Baga Burger Inventory System
 
 ## A. Introduction
+Our capstone project is centered around developing an inventory management system for Baga Burger, a popular burger store at Bagong Silang, Caloocan. Baga burger is a restaurant that specializes in serving burgers, typically with a meat patty, toppings, and condiments, often accompanied by sides like fries and drinks. The system will focus on the store's operations by efficiently tracking stock levels, managing ingredients, and minimizing waste. By automating the inventory process, Baga Burger can ensure timely restocking, avoid shortages, and improve overall productivity, helping the business scale more effectively.
+
+An inventory system is a software or process used to track, manage, and control the flow of goods, materials, or products in a business. It monitors stock levels, orders, sales, and deliveries to ensure that the right amount of inventory is available at all times. By efficiently managing stock, an inventory system helps businesses avoid overstocking, minimize shortages, and optimize reordering processes, leading to cost savings and smoother operations. Having a Real-Time Stock Tracking it monitors inventory levels to ensure products are always available when needed. SAN (Stock Alerts and Notifications) which sends alerts when stock is low to prevent shortages. Order Management that tracks incoming stock and updates inventory when new items are received. Reporting and Analytics which Provides simple reports on stock levels, usage, and trends. Inventory Categorization the one that organizes products into categories for easy tracking.
 
 ## B. Project Features and Characteristics
+
+The proposed project Baga Burger Inventory System consists of the following features:
+
+1.	Real-Time Stock Tracking - Tracks inventory to keep products available.
+2.	Stock Alerts and Notifications - Alerts when stock is low to avoid shortages.
+3.	Order Management - Updates inventory when new stock arrives.
+4.	Inventory Categorization - Sorts products for easy tracking.
+5.	Reporting and Analytics - Generates basic stock and usage reports.
+
 
 ## C. Project Scope
 The Baga Burger Inventory System is an advanced inventory management solution tailored for the operations of a burger restaurant. Given the dynamic nature of foodservice operations, effective inventory management is critical for maintaining smooth operations, ensuring the availability of essential ingredients, and minimizing waste. This system is designed to automate the tracking of various restaurant supplies, such as burger patties, buns, condiments, vegetables, beverages, packaging materials, and other critical ingredients required for daily operations.
