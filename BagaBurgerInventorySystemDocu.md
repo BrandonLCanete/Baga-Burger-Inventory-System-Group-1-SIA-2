@@ -28,6 +28,7 @@ The Baga Burger Inventory System is also equipped to generate detailed reports t
 Ultimately, the Baga Burger Inventory System will provide a comprehensive solution to the challenges of inventory management, resulting in improved operational efficiency, reduced waste, cost savings, and a more reliable supply of ingredients for the restaurant.
 
 ## D. Work Breakdown Structure
+![image](https://github.com/BrandonLCanete/Baga-Burger-Inventory-System-Group-1-SIA-2/blob/main/baga%20burger.png?raw=true)
 
 ## E. Functional Requirements
 
