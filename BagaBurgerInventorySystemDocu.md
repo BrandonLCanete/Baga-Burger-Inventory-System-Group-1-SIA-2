@@ -34,6 +34,20 @@ Ultimately, the Baga Burger Inventory System will provide a comprehensive soluti
 
 1. User Requirements
 
+No.   | Users         | System Features                                  | Requirements
+1     | Admin         | A. User Management Module - Register Staff        | 1. The system admin should be able to add staff members by inputting their: a. Name b. Email address c. Password d. Role
+      |               | B. User Management Module - View Staff            | 2. The system should enable the Admin to view staff details along with: a. Staff ID b. Role c. Activity Logs
+      |               | C. Menu Management Module - Add/Update Menu       | 3. The system should enable the Admin to add or update menu items by inputting their: a. Item name b. Price c. Description d. Image
+      |               | D. Reporting Module - View Reports                | 4. The system should enable the Admin to view different types of reports: a. Sales Reports b. Daily/Weekly/Monthly Reports
+2     | Kitchen Staff | A. Order Management Module - View Orders          | 1. The system should enable the Kitchen Staff to view active orders with: a. Order number b. Customer details c. Order items
+      |               | B. Order Status Module - Update Order Status      | 2. The system should enable the Kitchen Staff to update the order status (e.g., in preparation, ready for pickup).
+3     | Cashier       | A. Payment Module - Process Payments              | 1. The system should enable the Cashier to process payments by selecting: a. Order number b. Payment method c. Total amount
+      |               | B. Order Management Module - Confirm Orders       | 2. The system should enable the Cashier to confirm orders and generate a receipt.
+4     | Customer      | A. Menu Viewing Module - View Menu                | 1. The system Should enable customers to view the menu, including: a. Item name b. Price c. Description d. Item image
+      |               | B. Order Module - Place Order                     | 2. The system should enable customers to place orders by selecting items from the menu and providing: a. Contact information b. Payment details
+      |               | C. Order Tracking Module - Track Order            | 3. The system should enable customers to track the status of their orders.
+
+
 2. Use Case
 
 ## F. Database Architecture
