@@ -36,6 +36,24 @@ Ultimately, the Baga Burger Inventory System will provide a comprehensive soluti
 
 
 
+| **No.** | **Users**       | **System Features**                               | **Requirements**                                                                                                                                           |
+|---------|-----------------|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1       | Admin           | A. User Management Module - Register Staff         | 1. The system admin should be able to add staff members by inputting their: <br> a. Name <br> b. Email address <br> c. Password <br> d. Role                |
+|         |                 | B. User Management Module - View Staff             | 2. The system should enable the Admin to view staff details along with: <br> a. Staff ID <br> b. Role <br> c. Activity Logs                                 |
+|         |                 | C. Menu Management Module - Add/Update Menu        | 3. The system should enable the Admin to add or update menu items by inputting their: <br> a. Item name <br> b. Price <br> c. Description <br> d. Image     |
+|         |                 | D. Reporting Module - View Reports                 | 4. The system should enable the Admin to view different types of reports: <br> a. Sales Reports <br> b. Daily/Weekly/Monthly Reports                        |
+| 2       | Kitchen Staff    | A. Order Management Module - View Orders           | 1. The system should enable the Kitchen Staff to view active orders with: <br> a. Order number <br> b. Customer details <br> c. Order items                |
+|         |                 | B. Order Status Module - Update Order Status       | 2. The system should enable the Kitchen Staff to update the order status (e.g., in preparation, ready for pickup).                                           |
+| 3       | Cashier          | A. Payment Module - Process Payments               | 1. The system should enable the Cashier to process payments by selecting: <br> a. Order number <br> b. Payment method <br> c. Total amount                 |
+|         |                 | B. Order Management Module - Confirm Orders        | 2. The system should enable the Cashier to confirm orders and generate a receipt.                                                                            |
+| 4       | Customer         | A. Menu Viewing Module - View Menu                 | 1. The system must allow customers to view the menu, including: <br> a. Item name <br> b. Price <br> c. Description <br> d. Item image                     |
+|         |                 | B. Order Module - Place Order                      | 2. The system should enable customers to place orders by selecting items from the menu and providing: <br> a. Contact information <br> b. Payment details  |
+|         |                 | C. Order Tracking Module - Track Order             | 3. The system should enable customers to track the status of their orders.                                                                                  |
+
+
+
+
+
 
 2. Use Case
 
