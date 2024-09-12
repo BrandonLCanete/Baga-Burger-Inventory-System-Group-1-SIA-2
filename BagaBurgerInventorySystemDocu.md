@@ -73,6 +73,7 @@ Users:
 | user_password| varchar                         | 255    | $2y$10$WhIPyfbmpj8lQwG38r26Uu0S7a/BUceLz7BLx/aK0aS | User password to login |
 | user_number| int                               | 12     | 639993467999| User phone number |
 | user_picture| varchar                          | 150    | profile.jpg | User profile picture |
+| user_role   | enum                             | 150    | cahier      | The user role        |
 | user_status| boolean                           | 10     | online      | User online or offline status |
 
 Admin:
@@ -96,10 +97,23 @@ Admin:
 | product_description| varchar                   | 150    | This patty has only 22 stock out of 25 | A Description for the stock of the products or what is that product |
 | product_picture| varchar                       | 150    | patty.jpg | The picture of the product |
 | product_created| datetime                      | 150    | 2024-5-9  | The product uploaded in the inventory system |
+| product_price  | int                           | 255    | 1500      | The price of the products |
 | product_confirmation| boolean                  | 10     | True      | A Product need a confirmation from admin if its okay or not | 
 | product_deteriorate| datetime                  | 150    | 2024-5-20 | The product date when it will deteriorate |
 
-#### Table 3: Messages
+#### Table 3: Orders
+
+| COLUMN NAME | DATA TYPE                        | LENGTH | SAMPLE | DESCRIPTION        |
+|------------|-----------------------------------|--------|--------|---------------|
+| order_id   | int(pk)                           | 255    | 1      | Number that will encrement if staff order a product | 
+| order_number | int                             | 255    | 6800   | Number for the orders |
+| order_items | varchar                          | 150    | Buns   | Order Name |
+| order_price | int                              | 255    | 250    | Price of the Order |
+| order_qty   | int                              | 255    | 12     | The quantity of the Orders |
+| order_status | varchar                         | 100    | Okay   | The Status of the Orders |
+| order_payment | enum                           | 150    | paypal | The mode of the payment |
+
+#### Table 4: Messages
 
 | COLUMN NAME | DATA TYPE                        | LENGTH | SAMPLE | DESCRIPTION        |
 |------------|-----------------------------------|--------|--------|---------------|
@@ -111,7 +125,7 @@ Admin:
 | message_created| datetime                      | 150    | 2024-5-9  | The date when the message created |
 | account_picture| varchar                       | 150    | profile.jpg | The profile picture of the account |
 
-#### Table 4: Product Notifications
+#### Table 5: Product Notifications
 
 | COLUMN NAME | DATA TYPE                        | LENGTH | SAMPLE | DESCRIPTION        |
 |------------|-----------------------------------|--------|--------|---------------|
@@ -120,7 +134,7 @@ Admin:
 | product_name | varchar                         | 150    | Buns   | The product name that receive changes |
 | notification_message | varchar                 | 1500    | The Buns is now restock  | The notification message of the product that receive changes |
 
-#### Table 5: Password Resets 
+#### Table 6: Password Resets 
 
 | COLUMN NAME | DATA TYPE                        | LENGTH | SAMPLE | DESCRIPTION        |
 |------------|-----------------------------------|--------|--------|---------------|
