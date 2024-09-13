@@ -147,6 +147,8 @@ Admin:
 
 ### ERD
 
+![ERD DIAGRAM](https://github.com/user-attachments/assets/4d269170-6df2-4318-b2ae-c07169f51ad1)
+
 
 
 
