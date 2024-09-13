@@ -85,7 +85,7 @@ Admin:
 | admin_email| varchar                           | 150    | jhonnypapa@gmail.com | admin email to login |
 | admin_password| varchar                        | 255    | $2y$10$WhIPyfbmpj8lQwG38r26Uu0S7a/BUceLz7BLx/aK0bC | admin password to login |
 | admin_picture| varchar                         | 150    | profile_admin.jpg | admin profile picture |
-| admiin_status| boolean                         | 10     | true      | admin online or offline status |
+| admin_status| boolean                         | 10     | true      | admin online or offline status |
 
 #### Table 2: Product Information
 
