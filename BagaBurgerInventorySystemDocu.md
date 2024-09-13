@@ -34,26 +34,10 @@ Ultimately, the Baga Burger Inventory System will provide a comprehensive soluti
 
 1. User Requirements
 
-
-
-| **No.** | **Users**       | **System Features**                               | **Requirements**                                                                                                                                           |
-|---------|-----------------|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1       | Admin           | A. User Management Module - Register Staff         | 1. The system admin should be able to add staff members by inputting their: <br> a. Name <br> b. Email address <br> c. Password <br> d. Role                |
-|         |                 | B. User Management Module - View Staff             | 2. The system should enable the Admin to view staff details along with: <br> a. Staff ID <br> b. Role <br> c. Activity Logs                                 |
-|         |                 | C. Menu Management Module - Add/Update Menu        | 3. The system should enable the Admin to add or update menu items by inputting their: <br> a. Item name <br> b. Price <br> c. Description <br> d. Image     |
-|         |                 | D. Reporting Module - View Reports                 | 4. The system should enable the Admin to view different types of reports: <br> a. Sales Reports <br> b. Daily/Weekly/Monthly Reports                        |
-| 2       | Kitchen Staff    | A. Order Management Module - View Orders           | 1. The system should enable the Kitchen Staff to view active orders with: <br> a. Order number <br> b. Customer details <br> c. Order items                |
-|         |                 | B. Order Status Module - Update Order Status       | 2. The system should enable the Kitchen Staff to update the order status (e.g., in preparation, ready for pickup).                                           |
-| 3       | Cashier          | A. Payment Module - Process Payments               | 1. The system should enable the Cashier to process payments by selecting: <br> a. Order number <br> b. Payment method <br> c. Total amount                 |
-|         |                 | B. Order Management Module - Confirm Orders        | 2. The system should enable the Cashier to confirm orders and generate a receipt.                                                                            |
-| 4       | Customer         | A. Menu Viewing Module - View Menu                 | 1. The system must allow customers to view the menu, including: <br> a. Item name <br> b. Price <br> c. Description <br> d. Item image                     |
-|         |                 | B. Order Module - Place Order                      | 2. The system should enable customers to place orders by selecting items from the menu and providing: <br> a. Contact information <br> b. Payment details  |
-|         |                 | C. Order Tracking Module - Track Order             | 3. The system should enable customers to track the status of their orders.                                                                                  |
-
-
-
-
-
+| **No.** | **Entity** | **System Features** | **Requirements** |
+|---------|------------|----------------------|------------------|
+| **1**   | **Admin**  | **User Management Module:** <br> 1. Register users (Staff) with: <br> &nbsp;&nbsp;&nbsp;&nbsp; a. Name <br> &nbsp;&nbsp;&nbsp;&nbsp; b. Email address <br> &nbsp;&nbsp;&nbsp;&nbsp; c. Password <br> &nbsp;&nbsp;&nbsp;&nbsp; d. Role (e.g.,Staff) <br> - **View Users:** <br> 2. View user details including: <br> &nbsp;&nbsp;&nbsp;&nbsp; a. User ID <br> &nbsp;&nbsp;&nbsp;&nbsp; b. Role <br> &nbsp;&nbsp;&nbsp;&nbsp; c. Activity Logs <br> - **Menu Management Module:** <br> 3. Add or update menu items with: <br> &nbsp;&nbsp;&nbsp;&nbsp; a. Item name <br> &nbsp;&nbsp;&nbsp;&nbsp; b. Price <br> &nbsp;&nbsp;&nbsp;&nbsp; c. Description <br> &nbsp;&nbsp;&nbsp;&nbsp; d. Image <br> - **Reporting Module:** <br> 4. View reports such as: <br> &nbsp;&nbsp;&nbsp;&nbsp; a. Sales Reports <br> &nbsp;&nbsp;&nbsp;&nbsp; b. Daily/Weekly/Monthly Reports <br> - **Inventory Alert System:** <br> 5. Receive alerts when stock is low and handle external ordering <br> - **Messaging System:** <br> 6. Receive messages from users (Staff) for updates, issues, or reports | 1. Admin should be able to manage user registration and details.<br> 2. Admin should have the ability to view detailed reports.<br> 3. Admin should manage menu items and updates.<br> 4. Admin should handle low stock alerts and external ordering.<br> 5. Admin should receive and handle messages from Staff. |
+| **2**   | **Staff**  | **Order Management Module:** <br> 1. View active orders (Order number, Customer details, Order items) <br> - **Order Status Module:** <br> 2. Update order status (e.g., "In Preparation," "Ready for Pickup") | 1. Staffis to view and manage active orders.<br> 2. Staff is to update the status of orders. |
 
 2. Use Case
 
