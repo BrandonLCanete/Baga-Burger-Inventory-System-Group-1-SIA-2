@@ -101,7 +101,7 @@ Admin:
 | product_confirmation| boolean                  | 10     | True      | A Product need a confirmation from admin if its okay or not | 
 | product_deteriorate| datetime                  | 150    | 2024-5-20 | The product date when it will deteriorate |
 
-#### Table 3: Orders
+#### Table 3: Product Orders
 
 | COLUMN NAME | DATA TYPE                        | LENGTH | SAMPLE | DESCRIPTION        |
 |------------|-----------------------------------|--------|--------|---------------|
