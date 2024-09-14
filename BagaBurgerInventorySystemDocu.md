@@ -56,6 +56,9 @@ Ultimately, the Baga Burger Inventory System will provide a comprehensive soluti
 
 2. Use Case
 
+![Initiate payment](https://github.com/user-attachments/assets/2b353692-7621-4a09-8e47-ec3af774fcf9)
+
+
 ## F. Database Architecture
 
 ### Data Dictionary
