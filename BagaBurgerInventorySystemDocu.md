@@ -150,6 +150,8 @@ Admin:
 
 ### ERD
 
+![ERD DIAGRAM](https://github.com/user-attachments/assets/15e139e8-93bc-4a02-9dbd-bf9b3cd1abf5)
+
 
 
 
