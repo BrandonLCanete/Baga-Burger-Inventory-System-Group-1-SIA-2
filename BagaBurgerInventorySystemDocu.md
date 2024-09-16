@@ -14,6 +14,7 @@ The proposed project Baga Burger Inventory System consists of the following feat
 3.	Order Management - Updates inventory when new stock arrives.
 4.	Inventory Categorization - Sorts products for easy tracking.
 5.	Reporting and Analytics - Generates basic stock and usage reports.
+6.	Messaging System - Both User and Admin can message each other so they can be more productive.
 
 
 ## C. Project Scope
